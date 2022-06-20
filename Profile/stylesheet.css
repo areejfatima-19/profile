@@ -1,0 +1,178 @@
+.dropdown-menu{
+    background-color: rgb(97, 93, 93);
+   
+}
+.dropdown-item{
+color: white;
+
+}
+
+.nav-link{
+    color: #9b9b9b;
+    margin-top: 10px;
+    font-size: 16px;
+
+}
+.nav-link:hover{
+    color: #9b9b9b;
+    
+}
+.banner{
+    background: url(2.jpeg);
+    background-size:100%;
+    height: 1200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+    
+
+    
+}
+.banner-content{
+    color: white;
+   padding: 400px 0px;
+   letter-spacing: 5px;
+   line-height: 50px;
+}
+.nav{
+    background-color: #FFFFFF;
+}
+.after-banner{
+    margin-top: 30px;
+    
+}
+.h2{
+    font-size: 2rem;
+    text-align: center;
+}
+.h3{
+   
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+   line-height: 45px;
+    font-weight: 300;
+}
+.mbr-iconfont{
+    color: black;
+    font-size: 34px;
+}
+.row-content1{
+    
+    font-size: 2rem;
+    font-weight: 300;
+    
+}
+.concepting1{
+    font-size: 18px;
+    
+    line-height: 1.8rem;
+    font-weight: 400;
+    margin-top: 2rem;
+    color: black;
+}
+.stats-item{
+    background-color: #cccccc;
+    padding: 80px 20px;
+}
+.stats-item img{
+    width: 75px;
+    height: 75px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    
+}
+.clients{
+    margin-top:20px;
+    text-align: center;
+
+}
+.client{
+    text-align: center;
+}
+.stat-item{
+    background-color: #efefef;
+    padding: 80px 20px;
+
+}
+.stat-item img{
+    width: 75px;
+    height: 75px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    
+}
+.wp-1{
+    margin-top: 7rem;
+}
+.wp-h2{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size:3rem;
+    
+}
+.wp-h3{
+    font-size: x-large;
+    text-align: center;
+    margin-top: revert;
+       
+    font-size: 1.75rem;
+    font-weight: 300;
+  line-height: 1.7;
+
+
+}
+.anker{
+    color:#ffbc00;
+}
+.wp-h5{
+    text-align: center;
+    line-height: 1.7;
+}
+.wp-h4{
+    text-align: center;
+    font-size: 1.4rem;
+    
+
+}
+.container-4{
+    margin-top: 90px;
+}
+.wp-h5{
+    margin-top: 10px;
+}
+.content-img{
+    text-align: center;
+}
+.wrap-block{
+    padding: 3rem 3rem;
+    background-color: rgb(239, 239, 239)
+}
+.wrap-h1{
+    font-size: 2rem;
+    font-weight: 300;
+
+}
+.wrap-h2{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.wrap-h3{
+    font-size: 1rem;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.5;
+
+}
+.u2{
+    text-decoration: none;
+margin-top: 20px;}
+    li{
+        margin-bottom: 0.5rem;
+    
+        font-size: 1rem;
+        font-style: normal;
+    }
+   
